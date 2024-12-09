@@ -1,0 +1,43 @@
+body {
+    background-color: #EDEDEE;
+    overflow: hidden;
+}
+
+.container{
+    background-color: white;
+    width: 560px;
+    height: 440px;
+    border-radius: 40px;
+    padding: 20px 30px;
+    margin: 80px 350px;
+}
+.container h1{
+    font-size: 60px;
+    color: #6DD85D;
+}
+.username{
+    margin: 10px 20px;
+}
+.username input{
+    width: 500px;
+    height: 40px;
+    border-radius: 10px;
+}
+.password{
+    margin: 10px 20px;
+}
+.password input{
+    width: 500px;
+    height: 40px;
+    border-radius: 10px;
+}
+.container button {
+    background-color: #64B0F6;
+    padding: 10px 30px;
+    border-radius: 50px;
+    margin-top: 10px;
+}
+.container a {
+    text-decoration: none;
+    color: white;
+}
